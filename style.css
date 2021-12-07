@@ -1,0 +1,31 @@
+body{
+	background-color: lightblue;
+}
+.logo img{
+	margin-left: 35%;
+	background-size: 150px;
+	width: 300px;
+	height: 200px;
+}
+h1{
+	margin-left: 33%;
+	margin-right: 39.8%;
+	background-color: #000;
+	color: orange;
+}
+h2{
+	margin-left: 38%;
+	margin-right: 45.5%;
+	background-color: #000;
+color: #fff;
+}
+h3{
+	margin-left: 38%;
+	margin-right: 45.8%;
+	background-color: #000;
+	color: green;
+}
+p{
+	margin-left: ;
+	margin-bottom: ;
+}
